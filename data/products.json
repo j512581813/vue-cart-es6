@@ -1,0 +1,124 @@
+{
+	"result":[
+		{
+			"url":"dist/images/1.jpg",
+			"title":"【京东超市】福临门家香味AE浓香营养菜籽油（非转压榨）4L 中粮出品",
+			"price":41.90,
+			"oldPrice":60.00
+		},
+		{
+			"url":"dist/images/2.jpg",
+			"title":"【京东超市】倩碧 CLINIQUE 倩碧爆款黄油套装2（卓越润肤乳-清爽型125ml+赠品）(礼盒、赠品随机发放)",
+			"price":239.00,
+			"oldPrice":279.00
+		},
+		{
+			"url":"dist/images/3.jpg",
+			"title":"【京东超市】苏菲弹力贴身纤巧日用卫生巾230mm10片*8包+苏菲超熟睡夜用柔棉感420mm4片*4包（箱装）",
+			"price":59.90,
+			"oldPrice":99.00
+		},
+		{
+			"url":"dist/images/4.jpg",
+			"title":"九阳（Joyoung）X5家用免安装台式自动洗碗机 ",
+			"price":2299.00,
+			"oldPrice":2599.00
+		},
+		{
+			"url":"dist/images/5.jpg",
+			"title":"毓婷  早早孕 验孕 测孕 优备孕 优孕 验孕棒 检测试条1条*3盒",
+			"price":1.00,
+			"oldPrice":21.00
+		},
+		{
+			"url":"dist/images/6.jpg",
+			"title":"壳牌（Shell）合成机油 蓝喜力Helix HX7 5W-40 蓝壳A3/B4 SN 4L 德国原装进口",
+			"price":128.00,
+			"oldPrice":188.00
+		},
+		{
+			"url":"dist/images/7.jpg",
+			"title":"飞利浦（PHILIPS）电动剃须刀 PQ182/16 双刀头刮胡刀 便携式",
+			"price":84.9,
+			"oldPrice":84.90
+		},
+		{
+			"url":"dist/images/8.jpg",
+			"title":"【京东超市】蒙牛 特仑苏 醇纤调制乳 250ml*12 礼盒装",
+			"price":49.90,
+			"oldPrice":69.90
+		},
+		{
+			"url":"dist/images/9.jpg",
+			"title":"TCL 正1.5匹  变频 冷暖  金典系列 空调挂机（钛金除甲醛 隐藏显示屏）（KFRd-35GW/XD13BpA）",
+			"price":2288.00,
+			"oldPrice":2369.00
+		},
+		{
+			"url":"dist/images/10.jpg",
+			"title":"酷比魔方 iwork1X双系统 11.6英寸二合一平板电脑 intel全新芯片Z8350 办公娱乐新选择 前白后银",
+			"price":2288.00,
+			"oldPrice":2369.00
+		},
+		{
+			"url":"dist/images/11.jpg",
+			"title":"Apple MacBook Pro 15.4英寸笔记本电脑 深空灰色（Multi-Touch Bar/Core i7/16GB/512GB MLH42CH/A）",
+			"price":20988.00,
+			"oldPrice":21488.00
+		},
+		{
+			"url":"dist/images/12.jpg",
+			"title":"电视果3 爱奇艺智能网络电视机顶盒第三代 曜石黑 手机投屏 苹果安卓通用（内含爱奇艺VIP月卡）",
+			"price":178.00,
+			"oldPrice":198.00
+		},
+		{
+			"url":"dist/images/13.jpg",
+			"title":"欢乐果园 泰国金枕头冷冻榴莲 1盒装 约重430-450g",
+			"price":49.00,
+			"oldPrice":69.00
+		},
+		{
+			"url":"dist/images/14.jpg",
+			"title":"华硕(ASUS)顽石畅玩版R540 15.6英寸笔记本电脑( i5-7200U 4G 500GB 2G独显 HD 巧克力黑 预装office2016)",
+			"price":3699.00,
+			"oldPrice":4499.00
+		},
+		{
+			"url":"dist/images/15.jpg",
+			"title":"【简约套装版】魅族 魅蓝5 全网通公开版 32GB 薄荷绿 移动联通电信4G手机 双卡双待",
+			"price":178.00,
+			"oldPrice":198.00
+		},
+		{
+			"url":"dist/images/16.jpg",
+			"title":"戴尔(DELL)游匣15PR-3848B 游戏笔记本(i7-6700HQ 4G 128G SSD + 500G GTX960M4G Win10 15.6英寸)黑",
+			"price":5999.00,
+			"oldPrice":7999.00
+		},
+		{
+			"url":"dist/images/10.jpg",
+			"title":"酷比魔方 iwork1X双系统 11.6英寸二合一平板电脑 intel全新芯片Z8350 办公娱乐新选择 前白后银",
+			"price":2288.00,
+			"oldPrice":2369.00
+		},
+		{
+			"url":"dist/images/11.jpg",
+			"title":"static/images MacBook Pro 15.4英寸笔记本电脑 深空灰色（Multi-Touch Bar/Core i7/16GB/512GB MLH42CH/A）",
+			"price":20988.00,
+			"oldPrice":21488.00
+		},
+		{
+			"url":"dist/images/12.jpg",
+			"title":"电视果3 爱奇艺智能网络电视机顶盒第三代 曜石黑 手机投屏 苹果安卓通用（内含爱奇艺VIP月卡）",
+			"price":178.00,
+			"oldPrice":198.00
+		},
+		{
+			"url":"dist/images/13.jpg",
+			"title":"欢乐果园 泰国金枕头冷冻榴莲 1盒装 约重430-450g",
+			"price":49.00,
+			"oldPrice":69.00
+		}
+	]
+}

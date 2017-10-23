@@ -1,0 +1,62 @@
+{
+    "code": 200,
+    "erorr": "请求失败",
+    "productImage":"dist/images/product.jpg",
+    "productDesc":{
+        "title":"索尼（SONY） ILCE-7K 全画幅微单单镜标准套机（2430万有效像素 28-70mm镜头 F3.5-5.6 a7K/α7K",
+        "desc":"拒绝“负单” ,只要“微单”飞速对焦，便携与操控的精妙组合！全画幅微单7系，成就你的专业！",
+        "prices":7899.00,
+        "disacount":8999.00,
+        "heavy":1.20,
+        "types":[
+            {
+                "name":"A7系列",
+                "url":"dist/images/a7.jpg"
+            },
+            {
+                "name":"A7M2系列",
+                "url":"dist/images/a7m2.jpg"
+            },
+            {
+                "name":"A7R2系列",
+                "url":"dist/images/a7rm2.jpg"
+            },
+            {
+                "name":"A7SM2",
+                "url":"dist/images/a7sm2.jpg"
+            },
+            {
+                "name":"A机身",
+                "url":"dist/images/a.jpg"
+            }
+        ]
+    },
+    "result": [
+        {
+            "url": "dist/images/4.jpg",
+            "title": "九阳（Joyoung）X5家用免安装台式自动洗碗机"
+        },
+        {
+            "url": "dist/images/15.jpg",
+            "title": "电视果3 爱奇艺智能网络电视机顶盒第三代 曜石黑 手机投屏 苹果安卓通用（内含爱奇艺VIP月卡）"
+        },
+        {
+            "url": "dist/images/10.jpg",
+            "title": "Apple MacBook Pro 15.4英寸笔记本电脑 深空灰色（Multi-Touch Bar/Core i7/16GB/512GB MLH42CH/A）"
+        },
+        {
+            "url": "dist/images/9.jpg",
+            "title": "TCL 正1.5匹  变频 冷暖  金典系列 空调挂机（钛金除甲醛 隐藏显示屏）（KFRd-35GW/XD13BpA）"
+        },
+        {
+            "url": "dist/images/7.jpg",
+            "title": "飞利浦（PHILIPS）电动剃须刀 PQ182/16 双刀头刮胡刀 便携式",
+            "price": 84.9
+        },
+        {
+            "url": "dist/images/8.jpg",
+            "title": "【京东超市】蒙牛 特仑苏 醇纤调制乳 250ml*12 礼盒装",
+            "price": 49.9
+        }
+    ]
+}

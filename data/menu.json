@@ -1,0 +1,41 @@
+{
+	"logo":"dist/images/logo.png",
+	"menu":[
+		{
+			"name":"首页",
+			"index":1,
+			"isDefault": true,
+			"url":"#/index",
+			"type":"index"
+		},
+		{
+			"name":"新闻列表",
+			"index":5,
+			"isDefault": false,
+			"url":"#/new",
+			"type":"new"
+		},
+		{
+			"name":"产品列表",
+			"index":2,
+			"isDefault": false,
+			"url":"#/list",
+			"type":"list"
+		},
+		{
+			"name":"公司介绍",
+			"inde":3,
+			"isDefault": false,
+			"url":"#/about",
+			"type":"about"
+		},
+		{
+			"name":"联系我们",
+			"index":4,
+			"isDefault": false,
+			"url":"#/contact",
+			"type":"contact"
+		}
+
+	]
+}

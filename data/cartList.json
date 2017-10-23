@@ -1,0 +1,39 @@
+{
+	"code":200,
+	"result":[
+		{
+			"url":"dist/images/1.jpg",
+			"productName":"福临门家香味AE浓香营养菜籽油",
+			"prices":41.90,
+			"productQuentity": 1,
+			"parts":[
+				{
+					"partName":"纸巾一打"
+				}
+			]
+
+		},
+		{
+			"url":"dist/images/2.jpg",
+			"productName":"倩碧 CLINIQUE 倩碧爆款黄油套装",
+			"prices":239,
+			"productQuentity": 4,
+			"parts":[
+				{
+					"partName":"水壶一个"
+				}
+			]
+		},
+		{
+			"url":"dist/images/4.jpg",
+			"productQuentity": 1,
+			"productName":"九阳（Joyoung）X5家用免安装台式自动洗碗机 ",
+			"prices":2299,
+			"parts":[
+				{
+					"partName":"水壶一个"
+				}
+			]
+		}
+	]
+}

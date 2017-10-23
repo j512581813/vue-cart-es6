@@ -1,0 +1,19 @@
+{
+	"bannerImages":[
+		{
+			"bannerUrl":"dist/images/01.jpg",
+			"title":"banner01",
+			"type":"slider"
+		},
+		{
+			"bannerUrl":"dist/images/02.jpg",
+			"title":"banner02",
+			"type":"slider"
+		},
+		{
+			"bannerUrl":"dist/images/03.jpg",
+			"title":"banner03",
+			"type":"slider"
+		}
+	]
+}
